@@ -16,7 +16,7 @@
     <a href="https://www.linkedin.com/in/o-devops-1">
       <img src="https://img.shields.io/badge/O-DevOps-1-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://linktr.ee/o-devops-1">
+    <a href="[https://linktr.ee/o-devops-1](https://www.linkedin.com/in/omar-fattah-serir-navarro-94133b2a8/)">
       <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree"/>
     </a>
     <a href="https://github.com/O-DevOps-1/O-DevOps-1" target="_blank">
