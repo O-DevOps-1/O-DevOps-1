@@ -13,7 +13,7 @@
     <img src="termina-gh.gif" alt="Terminal GH GIF" />
   </p>
   <p>
-    I'm a Software Engineering Student specializing in Back-End, APIs, and mobile environments to create functional applications. I primarily work with Java, Python, and Kotlin to transform complex challenges into elegant solutions.
+    I'm a Software Engineering Student specializing in Back-End, APIs, and mobile environments to create functional applications. I primarily work with Java, Python, Kotlin and on ERP wise to transform complex challenges into elegant solutions.
   </p>
 </div>
 
@@ -65,7 +65,6 @@
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce"/>
 </div>
 
 <h2 align="center" class="section-heading">🔧 Frameworks</h2>
