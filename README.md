@@ -13,7 +13,8 @@
     <img src="termina-gh.gif" alt="Terminal GH GIF" />
   </p>
   <p>
-    I'm a Software Engineering Student specializing in Back-End, APIs, and mobile environments to create functional applications. I primarily work with Java, Python, Kotlin and on ERP wise to transform complex challenges into elegant solutions.
+  I'm a Software Engineering student specializing in Back-End development, APIs, and mobile environments to build functional applications. I primarily work with Java, Python, and Kotlin, and I also focus on ERP systems, particularly Odoo, to transform complex business challenges into elegant technical solutions.
+
   </p>
 </div>
 
